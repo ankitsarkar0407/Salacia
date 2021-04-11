@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Testing RealEstate">
+    <test name="Salcia">
+         <classes>
+             <class name="com.oxytech.testcases.LoginClass"/>
+             <class name="com.oxytech.testcases.AddToDoc"/>
+             
+            
+          </classes>
+     </test> <!-- Test -->
+</suite> <!-- Suite -->
